@@ -1,0 +1,21 @@
+#player {
+	width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+#song-info {
+	margin-bottom: 10px;
+}
+
+#song-name {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#duration {
+	font-size: 14px;
+	color: #666;
+}
